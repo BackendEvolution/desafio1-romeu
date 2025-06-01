@@ -2,7 +2,7 @@ package com.crud.romeu;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-
+//Anotação que define a porta de entrada
 @SpringBootApplication
 public class RomeuApplication {
 
